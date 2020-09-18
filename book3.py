@@ -1,0 +1,5 @@
+print("Cao Van Tai")
+print("1906020004")
+print("Cong Nghe Thong Tin")
+print("13THC")
+print("Lap Trinh Ung Dung")
